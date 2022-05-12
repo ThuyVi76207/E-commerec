@@ -1,0 +1,1 @@
+<h2>Người dùng không có quyền sử dụng</h2>
